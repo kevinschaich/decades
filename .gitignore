@@ -63,3 +63,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Secrets and pipeline caches (lyrics are copyrighted)
+.env
+pipeline/.venv/
+pipeline/cache/
+pipeline/batches/
+pipeline/analysis/
