@@ -2,5 +2,7 @@
     "slug": "decades",
     "name": "Decades",
     "tagline": "The story of us, told through the songs we loved most",
-    "icon": "disc-3"
+    "icon": "disc-3",
+    "url": "https://decades-navy.vercel.app",
+    "screenshot": "screenshot.jpg"
 }
