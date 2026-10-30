@@ -160,11 +160,15 @@ export function loadData(): Promise<Data> {
 }
 
 /** The decoded data, or null while it loads. */
-export function useData(): Data | null {
-    const [data, setData] = useState<Data | null>(null)
+/** The decoded data once loaded, null while loading, or the Error if it couldn't load. */
+export function useData(): Data | Error | null {
+    const [data, setData] = useState<Data | Error | null>(null)
     useEffect(() => {
         let live = true
-        loadData().then((d) => live && setData(d))
+        loadData().then(
+            (d) => live && setData(d),
+            (e) => live && setData(e instanceof Error ? e : new Error(String(e))),
+        )
         return () => {
             live = false
         }

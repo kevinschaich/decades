@@ -1,11 +1,7 @@
 import { Byline, DataSources, Tabs, TabsList, TabsTrigger, type DataSource } from '@kevinschaich/components'
-import { useEffect, useState, type ComponentType } from 'react'
+import { lazy, Suspense, useEffect, useState, type ComponentType } from 'react'
 import { useData, type Data } from './data'
-import { Compare } from './tabs/Compare'
-import { Galaxy } from './tabs/Galaxy'
-import { Story } from './tabs/Story'
-import { Themes } from './tabs/Themes'
-import { Words } from './tabs/Words'
+import { ErrorState, Failed, Loader } from './status'
 import { TYPE } from './theme'
 
 export const NAME = 'Decades'
@@ -13,11 +9,11 @@ export const TAGLINE = 'The story of us, told through the songs we loved most'
 export const REPO = 'kevinschaich/decades'
 
 const TABS: { id: string; label: string; Component: ComponentType<{ data: Data }> }[] = [
-    { id: 'story', label: 'Story', Component: Story },
-    { id: 'themes', label: 'Themes', Component: Themes },
-    { id: 'galaxy', label: 'Galaxy', Component: Galaxy },
-    { id: 'words', label: 'Words', Component: Words },
-    { id: 'compare', label: 'Compare', Component: Compare },
+    { id: 'story', label: 'Story', Component: lazy(() => import('./tabs/Story').then((m) => ({ default: m.Story }))) },
+    { id: 'themes', label: 'Themes', Component: lazy(() => import('./tabs/Themes').then((m) => ({ default: m.Themes }))) },
+    { id: 'galaxy', label: 'Galaxy', Component: lazy(() => import('./tabs/Galaxy').then((m) => ({ default: m.Galaxy }))) },
+    { id: 'words', label: 'Words', Component: lazy(() => import('./tabs/Words').then((m) => ({ default: m.Words }))) },
+    { id: 'compare', label: 'Compare', Component: lazy(() => import('./tabs/Compare').then((m) => ({ default: m.Compare }))) },
 ]
 
 const SOURCES: DataSource[] = [
@@ -60,7 +56,7 @@ export function App() {
                     <h1 className={TYPE.title}>{NAME}</h1>
                     <p className="text-sm text-muted-foreground">{TAGLINE}</p>
                 </div>
-                <div className="flex items-center gap-2 overflow-x-auto">
+                <div className="flex max-w-full items-center gap-2 overflow-x-auto [scrollbar-width:none]">
                     <Tabs value={tab} onValueChange={(v) => select(String(v))}>
                         <TabsList>
                             {TABS.map((t) => (
@@ -74,7 +70,17 @@ export function App() {
                 </div>
             </header>
             <main className="relative min-h-0 flex-1">
-                {data ? <Active data={data} /> : <div className="flex h-full items-center justify-center text-sm text-muted-foreground">Loading…</div>}
+                <ErrorState key={tab}>
+                    {data instanceof Error ? (
+                        <Failed />
+                    ) : data ? (
+                        <Suspense fallback={<Loader />}>
+                            <Active data={data} />
+                        </Suspense>
+                    ) : (
+                        <Loader />
+                    )}
+                </ErrorState>
             </main>
             <footer className="px-4 py-2 sm:px-8">
                 <Byline repo={REPO} />

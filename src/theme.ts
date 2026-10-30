@@ -24,7 +24,7 @@ export const THEME_GROUPS: { name: string; themes: Theme[] }[] = [
 ]
 
 const GROUP_HUES: Record<string, [number, number]> = {
-    Love: [350, 20], // rose to coral
+    Love: [350, 380], // rose to coral, past 360 so it takes the short way round
     Party: [300, 330], // magenta to pink
     Status: [70, 95], // gold to amber
     Rebellion: [25, 45], // red-orange
@@ -38,7 +38,7 @@ export const THEME_COLORS = Object.fromEntries(
         return g.themes.map((t, i) => {
             const k = g.themes.length > 1 ? i / (g.themes.length - 1) : 0
             const l = 0.78 - k * 0.14
-            return [t, `oklch(${l.toFixed(3)} 0.16 ${(h0 + (h1 - h0) * k).toFixed(0)})`]
+            return [t, `oklch(${l.toFixed(3)} 0.16 ${((h0 + (h1 - h0) * k) % 360).toFixed(0)})`]
         })
     }),
 ) as Record<Theme, string>
