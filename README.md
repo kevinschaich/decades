@@ -48,8 +48,8 @@ How each file is made is in [`pipeline/README.md`](pipeline/README.md).
 ## Copyright
 
 Song titles, artist names and chart positions belong to their owners. Lyrics are copyrighted by their rights
-holders and are not included or reproduced anywhere in this repo; they were only read to produce the derived
-measures and summaries. The AI summaries are paraphrases. Charts via Wikipedia are CC BY-SA 4.0. MusicBrainz
+holders. The new pipeline only reads them to produce the derived measures and summaries, and doesn't publish
+them; the original 2015 project's data in [`legacy/`](legacy/) includes lyrics, used for research and commentary. The AI summaries are paraphrases. Charts via Wikipedia are CC BY-SA 4.0. MusicBrainz
 data is CC0. If you're a rights holder with concerns, please
 [open an issue](https://github.com/kevinschaich/decades/issues).
 
