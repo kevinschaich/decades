@@ -1,0 +1,37 @@
+{
+    "name": "decades",
+    "private": true,
+    "type": "module",
+    "engines": {
+        "node": ">=24"
+    },
+    "scripts": {
+        "data": "bun scripts/build-data.ts",
+        "dev": "bun scripts/build-data.ts && vite",
+        "build": "bun scripts/build-data.ts && tsc --noEmit && vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@kevinschaich/components": "^0.7.0",
+        "@react-three/drei": "^10.7.9",
+        "@react-three/fiber": "^9.8.2",
+        "d3": "^7.9.0",
+        "lucide-react": "^1.64.0",
+        "motion": "^14.8.0",
+        "react": "19",
+        "react-dom": "19",
+        "three": "^0.186.1"
+    },
+    "devDependencies": {
+        "@tailwindcss/vite": "^4.3.3",
+        "@types/bun": "^1.4.4",
+        "@types/d3": "^7.4.3",
+        "@types/react": "^19.3.0",
+        "@types/react-dom": "^19.3.0",
+        "@types/three": "^0.186.0",
+        "@vitejs/plugin-react": "^6.1.2",
+        "tailwindcss": "^4.3.3",
+        "typescript": "7.0.2",
+        "vite": "^8.3.5"
+    }
+}

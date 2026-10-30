@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "@kevinschaich/components/theme.css";
+@import "@kevinschaich/components/styles.css";
+@source "../node_modules/@kevinschaich/components/dist";
+
+html,
+body,
+#root {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background: var(--background);
+    overflow: hidden;
+}

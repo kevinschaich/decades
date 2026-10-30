@@ -70,3 +70,9 @@ pipeline/.venv/
 pipeline/cache/
 pipeline/batches/
 pipeline/analysis/
+
+# App
+node_modules/
+dist/
+public/data/
+tsconfig.tsbuildinfo
