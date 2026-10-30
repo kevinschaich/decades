@@ -1,6 +1,6 @@
 """Match every chart song to its lyrics in the LRCLIB database dump, entirely offline.
 
-    gunzip -k cache/dumps/lrclib.sqlite3.gz   # once, about 100 GB
+    gunzip -k cache/dumps/lrclib.sqlite3.gz   # once, about 245 GB unpacked
     .venv/bin/python lyrics_dump.py
 
 For each song in songs.json, looks up LRCLIB tracks whose normalized title matches and whose artist matches one

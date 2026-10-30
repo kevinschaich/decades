@@ -1,35 +1,76 @@
 # Data pipeline
 
-Builds the data behind the rebuilt Billboard lyrics project: every Billboard year-end singles chart from 1950
-to 2025, 2026 so far, lyrics, MusicBrainz metadata and text metrics. The original 2015 project was by Juhee
-Lee, Yinan Wen and Kevin Schaich (see the repo's `README.md`, `writeup.md` and `data-detail.md`).
+Builds the data behind Decades: every Billboard year-end singles chart from 1950 to 2025 plus 2026 so far,
+artist genres, lyric measures and a per-song analysis. The original 2015 project was by Juhee Lee, Yinan Wen
+and Kevin Schaich (see [`legacy/`](../legacy/)).
 
-## Run
+## What's published
+
+Committed and free to build on: `songs.json`, `artists.json`, `genres.json`, `lyrics-coverage.json`,
+`metrics.json`, `analysis.json`, `analysis/batch-*.json`, `galaxy.json`, and the app's `public/data/`.
+
+**Not published:** lyrics and the dumps. `cache/` (the dumps, the matched lyrics in `cache/lyrics/`, fetched
+pages) and `batches/` (the AI-pass inputs, which contain lyrics) are git-ignored. Lyrics are copyrighted and
+are only read locally to produce the numbers and paraphrased summaries; no committed file contains lyric text.
+
+## Setup
 
 ```sh
 cd pipeline
-python3 -m venv .venv && .venv/bin/pip install beautifulsoup4 lxml pronouncing
-.venv/bin/python songs.py      # songs.json
-.venv/bin/python metadata.py   # cache/metadata.json, cache/artists.json (≥1 s between MusicBrainz requests)
-.venv/bin/python lyrics.py     # cache/lyrics/, cache/lyrics_matches.json (after metadata, to match on duration)
-.venv/bin/python metrics.py    # metrics.json
-.venv/bin/python build.py      # merges metadata into songs.json, writes batches/, prints coverage
+python3 -m venv .venv && .venv/bin/pip install beautifulsoup4 lxml pronouncing numpy umap-learn
 ```
 
-Needs `FIRECRAWL_API_KEY` in the repo's `.env` (git-ignored). **Every external page and API is fetched through
-[Firecrawl](https://firecrawl.dev)** (`fc.py`), never directly, and each response is cached in `cache/raw/` so
-re-runs are free. `cache/` and `batches/` are git-ignored: they hold lyrics, which are copyrighted. Nothing
-committed contains lyric text.
+`songs.py` and `metrics.py` fetch pages through [Firecrawl](https://firecrawl.dev) (`fc.py`), which needs
+`FIRECRAWL_API_KEY` in the repo's `.env` (git-ignored). Responses are cached in `cache/raw/` so re-runs are free.
 
-## Outputs
+Download the two dumps into `cache/dumps/`:
 
-- **`songs.json`** (committed): `songs[]` with `id`, `year`, `rank`, `title`, `artist` (as charted),
-  `primary_artists`, `featured_artists`, `source`, and after `build.py` `musicbrainz` (recording and artist
-  MBIDs, duration in seconds, first release date, earliest release's title/type/country, ISRCs),
-  `artist_info` (type, country, begin date), `genres`, `tags` and `aggregate_genres`. `id` is a hash of the
-  normalized title and first primary artist, so a song that charts in two years keeps one id.
-- **`metrics.json`** (committed): per song id, the lyric match (`lrclib_id`, `match`, `duration_gap`) and
-  `metrics` (null when no lyrics were found):
+| Dump | Where | Size |
+| --- | --- | --- |
+| LRCLIB SQLite database | [lrclib.net/db-dumps](https://lrclib.net/db-dumps), `lrclib-db-dump-*.sqlite3.gz` saved as `lrclib.sqlite3.gz` | ~45 GB compressed, ~245 GB unpacked (`gunzip -k`) |
+| MusicBrainz JSON artist dump | [data.metabrainz.org json-dumps](https://data.metabrainz.org/pub/musicbrainz/data/json-dumps/), latest `artist.tar.xz` | ~1.6 GB, streamed without unpacking |
+
+## Steps
+
+```sh
+.venv/bin/python songs.py        # 1. songs.json
+.venv/bin/python artists.py      # 2. artists.json, genres.json
+.venv/bin/python lyrics_dump.py  # 3. cache/lyrics/, lyrics-coverage.json
+.venv/bin/python metrics.py      # 4. metrics.json
+.venv/bin/python batches.py      # 5. batches/
+#                                  6. the AI pass → analysis/batch-*.json → analysis.json
+.venv/bin/python galaxy.py       # 7. galaxy.json
+cd .. && bun run data            # 8. public/data/
+```
+
+1. **`songs.py`**: Wikipedia's year-end chart pages (and billboard.com weekly charts for 2026), fetched
+   through Firecrawl → `songs.json`: `songs[]` with `id`, `year`, `rank`, `title`, `artist` (as charted),
+   `primary_artists`, `featured_artists` and `source`. `id` is a hash of the normalized title and first primary
+   artist, so a song that charts in two years keeps one id.
+2. **`artists.py`**: streams the MusicBrainz artist dump and keeps artists whose name or alias matches a
+   charting artist (the best-documented one wins a name clash) → `artists.json`, keyed by the name as charted:
+   MBID, type, gender, country, area, begin/end year, genres and top tags with vote counts. Also writes
+   `genres.json`, the 15 genre groups.
+3. **`lyrics_dump.py`**: matches every song to the LRCLIB dump offline, by normalized title and an artist
+   match, preferring non-instrumental tracks with plain lyrics (it builds a title index,
+   `cache/dumps/title-index.sqlite3`, ~1.5 GB, on first run). Lyrics go to `cache/lyrics/<id>.txt` (not
+   published); `lyrics-coverage.json` records per song whether lyrics were found and how they matched. A few
+   dozen misses were then matched, or marked instrumental, by hand-guided queries.
+4. **`metrics.py`**: text measures from the cached lyrics → `metrics.json` (numbers only). The profanity list
+   is fetched through Firecrawl.
+5. **`batches.py`**: `batches/batch-NNN.jsonl`, 50 songs each with id, title, artist, year and lyrics, for the
+   AI pass (not published).
+6. **The AI pass**: one Claude (Haiku) agent per batch, following [`analysis-schema.md`](analysis-schema.md),
+   writes `analysis/batch-NNN.json`; these are merged into `analysis.json`. Records hold judgements and
+   paraphrase only, never lyric text.
+7. **`galaxy.py`**: UMAP over each song's themes, mood, style, storytelling and explicitness → `galaxy.json`,
+   a position in 0..1 per song plus the projection settings.
+8. **`scripts/build-data.ts`** (runs before `bun dev` and `bun run build`): joins the files above into
+   `public/data/songs.json` and `years.json`.
+
+## Outputs in detail
+
+- **`metrics.json`** (committed): per song id, `lyrics` (source and how it matched) and `metrics` (null when no lyrics were found):
   - `word_count`, `unique_words`, `lexical_diversity` (unique / total), `avg_word_length`, `line_count`
     (non-blank lines, section labels like `[Chorus]` removed)
   - `compression_ratio` (zlib level 9 compressed size / raw size; lower = more repetitive) and
@@ -40,8 +81,7 @@ committed contains lyric text.
   - `profanity_count`: words (and phrases) on the LDNOOBW English list
   - `pronouns`: counts for I / you / we / they, including their object, possessive and contracted forms
   - `title_repeats`: times the title (parentheticals and the B-side of a double A-side dropped) appears
-- **`batches/batch-NNN.jsonl`** (git-ignored): ~40 songs a line each with `id`, `title`, `artists`,
-  `year` and `lyrics`, for the AI pass. Songs without lyrics are left out.
+- **`analysis.json`**: one record per song, as described in [`analysis-schema.md`](analysis-schema.md).
 
 ## Sources and methods
 
@@ -61,28 +101,16 @@ committed contains lyric text.
 
 ### Lyrics: LRCLIB
 
-[LRCLIB](https://lrclib.net) `/api/search` by track and primary artist, then a free-text search as a
-fallback. A candidate must match the title (≥0.8 similarity) and an artist (≥0.6); among those the best
-title + artist score wins, less up to one point for a duration gap against MusicBrainz. `match` is `exact`
-(normalized title and primary artist equal) or `fuzzy`, with `+duration` when within 5 s of MusicBrainz.
-LRCLIB's database is crowd-sourced and free to use; the lyrics themselves stay with their rights holders,
-which is why they are only cached locally.
+[LRCLIB](https://lrclib.net) is a crowd-sourced lyrics database that publishes full dumps. Matching runs
+entirely offline against the dump. The lyrics stay with their rights holders, which is why they are only
+cached locally.
 
-### Metadata: MusicBrainz
+### Artists and genres: MusicBrainz
 
-[MusicBrainz](https://musicbrainz.org) web service (`/ws/2`), at most one request started per second as its
-rate limit asks. Per song, a recording search by title and artist; the matching recording with the earliest
-release (live, remix, demo, instrumental and karaoke versions skipped) gives the duration (median of the
-earliest matches), release and ISRCs. Per primary artist, a lookup with genres and tags. MusicBrainz core data
-is **CC0**. Labels are not included: they need a further release lookup per song. Spotify audio features are
-no longer available and are skipped.
-
-### Genres
-
-The 2015 project's 15 aggregate genres (`data/aggregate_genres.py`) are kept, in `genres.py`, with a few
-MusicBrainz genre names added (rock and roll, doo-wop, trap, contemporary r&b, dance-pop…). A song's
-`aggregate_genres` are every bucket its recording tags, artist genres and artist tags fall in, the first
-being the bucket of its most-voted tag.
+The [MusicBrainz](https://musicbrainz.org) JSON artist dump; MusicBrainz core data is **CC0**. The 2015
+project's 15 aggregate genres (`legacy/data/aggregate_genres.py`) are kept, in `artists.py`, with a few
+MusicBrainz genre names added (rock and roll, doo-wop, trap, contemporary r&b…). An artist's genres are every
+group its genres and tags fall in, most-voted first.
 
 ### Profanity and rhymes
 
@@ -92,15 +120,7 @@ being the bucket of its most-voted tag.
 
 ## What changed from 2015
 
-- The r/datasets Billboard CSV link (ryanrishi.com) is dead → Wikipedia's year-end pages, now through 2025.
-- LyricWikia (lyrics.wikia.com, closed 2020) and the Heroku lyric API are gone → LRCLIB.
-- `musicbrainzngs` called MusicBrainz directly → the same API through Firecrawl.
-- Spotify audio features (not used in 2015, but often suggested) are no longer available.
-
-## Credits
-
-- Chart positions: Billboard, via Wikipedia (CC BY-SA 4.0) and billboard.com for 2026.
-- Lyrics: LRCLIB (lrclib.net), cached locally only.
-- Metadata, genres and tags: MusicBrainz (CC0).
-- Profanity list: LDNOOBW (CC BY 4.0). Pronunciations: CMU Pronouncing Dictionary.
-- Original project and genre mapping: Juhee Lee, Yinan Wen and Kevin Schaich, 2015.
+- The r/datasets Billboard CSV link is dead → Wikipedia's year-end pages, now through 2025.
+- LyricWikia (closed 2020) and the Heroku lyric API are gone → the LRCLIB dump.
+- `musicbrainzngs` API calls → the MusicBrainz JSON dump.
+- Spotify audio features are no longer available.

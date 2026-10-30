@@ -1,0 +1,2685 @@
+[
+ {
+  "id": "e4b09fc8c4",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A friendly call to reach out through hard times and connect with others.",
+  "themes": {
+   "friendship": 0.8,
+   "love_romance": 0.3
+  },
+  "primaryTheme": "friendship",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.6,
+   "primaryEmotion": "hope",
+   "secondaryEmotion": "joy"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "listener",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "rise",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.7,
+   "imagery": 0.2,
+   "slang": 0.3,
+   "complexity": 0.1,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.3
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.7,
+  "confidence": 0.8
+ },
+ {
+  "id": "8b1f0ffdad",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A defiant rock anthem about a rough childhood and a rebel's pride.",
+  "themes": {
+   "rebellion": 0.6,
+   "self_reflection": 0.4,
+   "celebration_joy": 0.3
+  },
+  "primaryTheme": "rebellion",
+  "mood": {
+   "valence": 0.5,
+   "energy": 0.9,
+   "primaryEmotion": "defiance",
+   "secondaryEmotion": "confidence"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "crowd",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.5,
+   "arc": "rise",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.8,
+   "imagery": 0.5,
+   "slang": 0.4,
+   "complexity": 0.2,
+   "humor": 0.4,
+   "aggression": 0.3,
+   "vulnerability": 0.2
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "New York"
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [
+    "Rolling Stones"
+   ],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "98a19d460c",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A lost lover's cake metaphor leads to a bitter reflection on a shattered romance.",
+  "themes": {
+   "heartbreak": 0.9,
+   "nostalgia": 0.6,
+   "longing": 0.6,
+   "love_romance": 0.5
+  },
+  "primaryTheme": "heartbreak",
+  "mood": {
+   "valence": -0.5,
+   "energy": 0.5,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "nostalgia"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "ex",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.7,
+   "arc": "fall",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.6,
+   "conversational": 0.4,
+   "imagery": 0.9,
+   "slang": 0.1,
+   "complexity": 0.8,
+   "humor": 0.1,
+   "aggression": 0.1,
+   "vulnerability": 0.8
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "MacArthur Park"
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.8
+ },
+ {
+  "id": "043af81274",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A flirtatious plea to set the night on fire and chase a shared high.",
+  "themes": {
+   "desire_sex": 0.7,
+   "love_romance": 0.5,
+   "partying": 0.3
+  },
+  "primaryTheme": "desire_sex",
+  "mood": {
+   "valence": 0.6,
+   "energy": 0.7,
+   "primaryEmotion": "desire",
+   "secondaryEmotion": "playfulness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.6,
+   "imagery": 0.4,
+   "slang": 0.3,
+   "complexity": 0.2,
+   "humor": 0.2,
+   "aggression": 0.0,
+   "vulnerability": 0.3
+  },
+  "explicitness": 1,
+  "explicitTopics": [
+   "sexual"
+  ],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "47c84498ac",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A tongue-tied singer struggles to say I love you and feels held back.",
+  "themes": {
+   "love_romance": 0.9
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.7,
+   "energy": 0.4,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.7,
+   "imagery": 0.1,
+   "slang": 0.2,
+   "complexity": 0.1,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.7
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.85
+ },
+ {
+  "id": "b078619af4",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A man ignores his mother's warning to slow down and learns his fiancee cheated.",
+  "themes": {
+   "love_romance": 0.7,
+   "family": 0.5,
+   "heartbreak": 0.6
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": -0.4,
+   "energy": 0.4,
+   "primaryEmotion": "bitterness",
+   "secondaryEmotion": "sadness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "family",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.9,
+   "arc": "fall",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.8,
+   "imagery": 0.2,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.1,
+   "aggression": 0.1,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.8
+ },
+ {
+  "id": "6546e76f77",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A haunted narrator sees a lover's face everywhere and cannot shake the image.",
+  "themes": {
+   "love_romance": 0.6,
+   "heartbreak": 0.5,
+   "self_reflection": 0.2
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": -0.3,
+   "energy": 0.6,
+   "primaryEmotion": "fear",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.4,
+   "imagery": 0.7,
+   "slang": 0.1,
+   "complexity": 0.3,
+   "humor": 0.1,
+   "aggression": 0.2,
+   "vulnerability": 0.6
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.7,
+  "confidence": 0.7
+ },
+ {
+  "id": "2c642617cc",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A worker fumes about low pay, a summer with no money and a dismissive boss.",
+  "themes": {
+   "work_struggle": 0.8,
+   "youth_school": 0.4
+  },
+  "primaryTheme": "work_struggle",
+  "mood": {
+   "valence": -0.3,
+   "energy": 0.9,
+   "primaryEmotion": "bitterness",
+   "secondaryEmotion": "playfulness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "society",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.5,
+   "arc": "flat",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.9,
+   "imagery": 0.2,
+   "slang": 0.6,
+   "complexity": 0.1,
+   "humor": 0.8,
+   "aggression": 0.3,
+   "vulnerability": 0.2
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "United Nations"
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "2cc89e09b6",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A singer insists a photo or letter cannot replace the real person they love.",
+  "themes": {
+   "love_romance": 0.9,
+   "longing": 0.5
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.7,
+   "energy": 0.5,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.7,
+   "imagery": 0.3,
+   "slang": 0.2,
+   "complexity": 0.2,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.6
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [
+    "Tammi"
+   ],
+   "eras": []
+  },
+  "eraSignal": 0.4,
+  "confidence": 0.85
+ },
+ {
+  "id": "0e216e4e65",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A bouncy celebration of a feeling that rises and falls with love and mood.",
+  "themes": {
+   "celebration_joy": 0.6,
+   "love_romance": 0.4,
+   "mental_health": 0.3
+  },
+  "primaryTheme": "celebration_joy",
+  "mood": {
+   "valence": 0.5,
+   "energy": 0.9,
+   "primaryEmotion": "joy",
+   "secondaryEmotion": "confidence"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.5,
+   "imagery": 0.2,
+   "slang": 0.3,
+   "complexity": 0.1,
+   "humor": 0.2,
+   "aggression": 0.1,
+   "vulnerability": 0.3
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "a8612db538",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A condemned man begs a preacher to deliver a farewell message to the woman he wronged.",
+  "themes": {
+   "love_romance": 0.6,
+   "heartbreak": 0.4,
+   "violence_crime": 0.4
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": -0.8,
+   "energy": 0.5,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.6,
+   "arc": "fall",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.5,
+   "imagery": 0.3,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.0,
+   "aggression": 0.1,
+   "vulnerability": 0.9
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.4,
+  "confidence": 0.75
+ },
+ {
+  "id": "1450a544e4",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A sympathetic portrait of a struggling mother juggling children, rent and hard days.",
+  "themes": {
+   "family": 0.7,
+   "work_struggle": 0.6
+  },
+  "primaryTheme": "family",
+  "mood": {
+   "valence": -0.2,
+   "energy": 0.4,
+   "primaryEmotion": "hope",
+   "secondaryEmotion": "calm"
+  },
+  "perspective": {
+   "narrator": "third",
+   "addressee": "unspecified",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.6,
+   "conversational": 0.4,
+   "imagery": 0.5,
+   "slang": 0.1,
+   "complexity": 0.5,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.4
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.4,
+  "confidence": 0.8
+ },
+ {
+  "id": "33d3f99539",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A dreamy vision of a wandering singer who brings songs of love by the sea.",
+  "themes": {
+   "love_romance": 0.5,
+   "nature_seasons": 0.3,
+   "self_reflection": 0.2
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.5,
+   "energy": 0.4,
+   "primaryEmotion": "awe",
+   "secondaryEmotion": "calm"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "unspecified",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.4,
+   "arc": "flat",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.3,
+   "imagery": 0.7,
+   "slang": 0.1,
+   "complexity": 0.7,
+   "humor": 0.2,
+   "aggression": 0.0,
+   "vulnerability": 0.2
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.6
+ },
+ {
+  "id": "529320679f",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A dreamer invites a girl on a magic carpet ride of fantasy and escape.",
+  "themes": {
+   "freedom_escape": 0.9,
+   "self_reflection": 0.2,
+   "love_romance": 0.2
+  },
+  "primaryTheme": "freedom_escape",
+  "mood": {
+   "valence": 0.7,
+   "energy": 0.7,
+   "primaryEmotion": "hope",
+   "secondaryEmotion": "playfulness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "listener",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.5,
+   "imagery": 0.8,
+   "slang": 0.3,
+   "complexity": 0.4,
+   "humor": 0.2,
+   "aggression": 0.0,
+   "vulnerability": 0.3
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [
+    "Aladdin"
+   ],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "d31046f2f7",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A drunk pleads to be allowed home and to start over after another binge.",
+  "themes": {
+   "drugs_alcohol": 0.9,
+   "work_struggle": 0.4,
+   "self_reflection": 0.3
+  },
+  "primaryTheme": "drugs_alcohol",
+  "mood": {
+   "valence": -0.7,
+   "energy": 0.4,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "bitterness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "self",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.4,
+   "arc": "cycle",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.6,
+   "imagery": 0.4,
+   "slang": 0.3,
+   "complexity": 0.2,
+   "humor": 0.2,
+   "aggression": 0.1,
+   "vulnerability": 0.8
+  },
+  "explicitness": 1,
+  "explicitTopics": [
+   "drugs"
+  ],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.4,
+  "confidence": 0.8
+ },
+ {
+  "id": "911e1e7b7a",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A plea to a lover to stay close and keep loving the narrator.",
+  "themes": {
+   "love_romance": 0.9,
+   "longing": 0.4
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.6,
+   "energy": 0.5,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "hope"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.98,
+   "conversational": 0.6,
+   "imagery": 0.1,
+   "slang": 0.1,
+   "complexity": 0.1,
+   "humor": 0.0,
+   "aggression": 0.0,
+   "vulnerability": 0.7
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.85
+ },
+ {
+  "id": "bef105f131",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A jealous man confronts a woman who betrayed him and loses control in a fatal rage.",
+  "themes": {
+   "violence_crime": 0.8,
+   "heartbreak": 0.7,
+   "love_romance": 0.4
+  },
+  "primaryTheme": "violence_crime",
+  "mood": {
+   "valence": -0.9,
+   "energy": 0.8,
+   "primaryEmotion": "anger",
+   "secondaryEmotion": "sadness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.9,
+   "arc": "fall",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.7,
+   "conversational": 0.5,
+   "imagery": 0.4,
+   "slang": 0.1,
+   "complexity": 0.3,
+   "humor": 0.0,
+   "aggression": 0.9,
+   "vulnerability": 0.4
+  },
+  "explicitness": 1,
+  "explicitTopics": [
+   "violence"
+  ],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.4,
+  "confidence": 0.8
+ },
+ {
+  "id": "8b03085f9e",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A cocky dance boast claiming nobody can perform the moves like the singer.",
+  "themes": {
+   "dancing": 0.9,
+   "celebration_joy": 0.6,
+   "partying": 0.3
+  },
+  "primaryTheme": "dancing",
+  "mood": {
+   "valence": 0.9,
+   "energy": 0.9,
+   "primaryEmotion": "confidence",
+   "secondaryEmotion": "playfulness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "crowd",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.0,
+   "arc": "flat",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 1.0,
+   "conversational": 0.7,
+   "imagery": 0.0,
+   "slang": 0.6,
+   "complexity": 0.0,
+   "humor": 0.5,
+   "aggression": 0.0,
+   "vulnerability": 0.0
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "Philly"
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.9,
+  "confidence": 0.8
+ },
+ {
+  "id": "bbba911ced",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A soul singer thanks a lover for the affection and passion received.",
+  "themes": {
+   "love_romance": 0.8,
+   "celebration_joy": 0.5
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.9,
+   "energy": 0.9,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "joy"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.8,
+   "imagery": 0.1,
+   "slang": 0.4,
+   "complexity": 0.1,
+   "humor": 0.2,
+   "aggression": 0.0,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.85
+ },
+ {
+  "id": "1a11d9fbc7",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A reflection on a solitary man on a hill whom others dismiss as a fool.",
+  "themes": {
+   "self_reflection": 0.8,
+   "social_politics": 0.3,
+   "mental_health": 0.3
+  },
+  "primaryTheme": "self_reflection",
+  "mood": {
+   "valence": 0.1,
+   "energy": 0.3,
+   "primaryEmotion": "calm",
+   "secondaryEmotion": "awe"
+  },
+  "perspective": {
+   "narrator": "third",
+   "addressee": "society",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.5,
+   "conversational": 0.3,
+   "imagery": 0.8,
+   "slang": 0.1,
+   "complexity": 0.4,
+   "humor": 0.2,
+   "aggression": 0.0,
+   "vulnerability": 0.3
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.8
+ },
+ {
+  "id": "ff38e81939",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A chaplain blesses young soldiers who march into battle and many who will die.",
+  "themes": {
+   "war_conflict": 0.9,
+   "faith_spirituality": 0.7,
+   "mental_health": 0.2
+  },
+  "primaryTheme": "war_conflict",
+  "mood": {
+   "valence": -0.8,
+   "energy": 0.5,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "anger"
+  },
+  "perspective": {
+   "narrator": "third",
+   "addressee": "unspecified",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.7,
+   "arc": "fall",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.3,
+   "imagery": 0.7,
+   "slang": 0.1,
+   "complexity": 0.4,
+   "humor": 0.0,
+   "aggression": 0.3,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.8,
+  "confidence": 0.8
+ },
+ {
+  "id": "6678c1766a",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A jingle inviting families to a lake town with canoes, coves and summer fun.",
+  "themes": {
+   "hometown_place": 0.6,
+   "nature_seasons": 0.5,
+   "cars_travel": 0.4,
+   "youth_school": 0.2
+  },
+  "primaryTheme": "hometown_place",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.7,
+   "primaryEmotion": "playfulness",
+   "secondaryEmotion": "joy"
+  },
+  "perspective": {
+   "narrator": "second",
+   "addressee": "listener",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.7,
+   "imagery": 0.5,
+   "slang": 0.1,
+   "complexity": 0.1,
+   "humor": 0.3,
+   "aggression": 0.0,
+   "vulnerability": 0.0
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "Indian Lake",
+    "Lakewood Drive",
+    "Quakerforn Ridge"
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.7
+ },
+ {
+  "id": "b7e98988d3",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A lovesick singer wonders what a former partner is doing tonight.",
+  "themes": {
+   "heartbreak": 0.7,
+   "longing": 0.6,
+   "love_romance": 0.3
+  },
+  "primaryTheme": "heartbreak",
+  "mood": {
+   "valence": -0.4,
+   "energy": 0.4,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "ex",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.4,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.7,
+   "imagery": 0.2,
+   "slang": 0.2,
+   "complexity": 0.2,
+   "humor": 0.0,
+   "aggression": 0.0,
+   "vulnerability": 0.7
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.8
+ },
+ {
+  "id": "17b0a93c08",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A heartbroken narrator cannot stop thinking about a former lover.",
+  "themes": {
+   "heartbreak": 0.9,
+   "love_romance": 0.6,
+   "mental_health": 0.3
+  },
+  "primaryTheme": "heartbreak",
+  "mood": {
+   "valence": -0.7,
+   "energy": 0.5,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "ex",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.7,
+   "conversational": 0.6,
+   "imagery": 0.3,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.0,
+   "aggression": 0.0,
+   "vulnerability": 0.8
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.4,
+  "confidence": 0.85
+ },
+ {
+  "id": "ae67029544",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A medley of two love songs about being wild over a sweetheart.",
+  "themes": {
+   "love_romance": 0.9,
+   "desire_sex": 0.3,
+   "celebration_joy": 0.3
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.6,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "desire"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.6,
+   "imagery": 0.3,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.0,
+   "aggression": 0.0,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "3f7f4e0015",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A singer vows to win over a cheating man's partner and claim her heart.",
+  "themes": {
+   "love_romance": 0.6,
+   "heartbreak": 0.5,
+   "rebellion": 0.2
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.2,
+   "energy": 0.8,
+   "primaryEmotion": "defiance",
+   "secondaryEmotion": "confidence"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "rival",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "rise",
+   "timeFrame": "future"
+  },
+  "style": {
+   "hookCentric": 1.0,
+   "conversational": 0.6,
+   "imagery": 0.1,
+   "slang": 0.1,
+   "complexity": 0.1,
+   "humor": 0.3,
+   "aggression": 0.3,
+   "vulnerability": 0.2
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.7,
+  "confidence": 0.8
+ },
+ {
+  "id": "bb723ae54f",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A Noah's ark tale in which the unicorns are left behind and never seen again.",
+  "themes": {
+   "faith_spirituality": 0.8,
+   "nature_seasons": 0.3
+  },
+  "primaryTheme": "faith_spirituality",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.6,
+   "primaryEmotion": "playfulness",
+   "secondaryEmotion": "joy"
+  },
+  "perspective": {
+   "narrator": "third",
+   "addressee": "listener",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.8,
+   "arc": "flat",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.7,
+   "conversational": 0.8,
+   "imagery": 0.5,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.8,
+   "aggression": 0.0,
+   "vulnerability": 0.1
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [
+    "Noah"
+   ],
+   "eras": []
+  },
+  "eraSignal": 0.3,
+  "confidence": 0.8
+ },
+ {
+  "id": "456dff80a3",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A woman begs an ex to set her free because he will not really let go.",
+  "themes": {
+   "heartbreak": 0.8,
+   "love_romance": 0.6,
+   "freedom_escape": 0.4
+  },
+  "primaryTheme": "heartbreak",
+  "mood": {
+   "valence": -0.5,
+   "energy": 0.8,
+   "primaryEmotion": "anger",
+   "secondaryEmotion": "bitterness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "ex",
+   "narratorGender": "female"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.7,
+   "imagery": 0.1,
+   "slang": 0.3,
+   "complexity": 0.1,
+   "humor": 0.0,
+   "aggression": 0.4,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.85
+ },
+ {
+  "id": "3a85bb16ba",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A song that wants change but refuses destruction and calls for patience.",
+  "themes": {
+   "social_politics": 0.9,
+   "rebellion": 0.5,
+   "war_conflict": 0.2
+  },
+  "primaryTheme": "social_politics",
+  "mood": {
+   "valence": 0.2,
+   "energy": 0.6,
+   "primaryEmotion": "defiance",
+   "secondaryEmotion": "hope"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "crowd",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.8,
+   "imagery": 0.2,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.0,
+   "aggression": 0.3,
+   "vulnerability": 0.1
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.9,
+  "confidence": 0.85
+ },
+ {
+  "id": "46f1638ada",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A worried lover accuses a woman of wanting to cheat and sees it in her looks.",
+  "themes": {
+   "heartbreak": 0.8,
+   "love_romance": 0.6,
+   "desire_sex": 0.2
+  },
+  "primaryTheme": "heartbreak",
+  "mood": {
+   "valence": -0.6,
+   "energy": 0.5,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "bitterness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.7,
+   "imagery": 0.2,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.0,
+   "aggression": 0.2,
+   "vulnerability": 0.7
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.4,
+  "confidence": 0.85
+ },
+ {
+  "id": "d2fca3495d",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A giddy love song to a girl the narrator adores despite her family.",
+  "themes": {
+   "love_romance": 0.9,
+   "youth_school": 0.2,
+   "celebration_joy": 0.3
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.9,
+   "energy": 0.7,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "joy"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.9,
+   "imagery": 0.1,
+   "slang": 0.4,
+   "complexity": 0.1,
+   "humor": 0.5,
+   "aggression": 0.0,
+   "vulnerability": 0.4
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "8fb05de437",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A lonely narrator in a dim room mourns a lover who left by train.",
+  "themes": {
+   "loneliness": 0.7,
+   "love_romance": 0.5,
+   "self_reflection": 0.5
+  },
+  "primaryTheme": "loneliness",
+  "mood": {
+   "valence": -0.5,
+   "energy": 0.7,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "fear"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.4,
+   "arc": "fall",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.4,
+   "conversational": 0.2,
+   "imagery": 1.0,
+   "slang": 0.1,
+   "complexity": 0.9,
+   "humor": 0.0,
+   "aggression": 0.1,
+   "vulnerability": 0.6
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.7
+ },
+ {
+  "id": "8a74c8bccd",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A devoted lover pledges loyalty and promises to be there in every need.",
+  "themes": {
+   "love_romance": 0.9,
+   "empowerment": 0.3,
+   "friendship": 0.2
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.5,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "hope"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "rise",
+   "timeFrame": "future"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.5,
+   "imagery": 0.4,
+   "slang": 0.1,
+   "complexity": 0.3,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.6
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [
+    "Tammi"
+   ],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.85
+ },
+ {
+  "id": "8936780c93",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A man begs a lover not to leave, promising to build his world around her.",
+  "themes": {
+   "love_romance": 0.8,
+   "heartbreak": 0.5,
+   "longing": 0.6
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": -0.3,
+   "energy": 0.5,
+   "primaryEmotion": "longing",
+   "secondaryEmotion": "sadness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.98,
+   "conversational": 0.6,
+   "imagery": 0.2,
+   "slang": 0.1,
+   "complexity": 0.1,
+   "humor": 0.0,
+   "aggression": 0.0,
+   "vulnerability": 0.8
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.8
+ },
+ {
+  "id": "02f8957f8e",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A singer says a lover's sweet words are the inspiration that keeps going.",
+  "themes": {
+   "love_romance": 0.8,
+   "empowerment": 0.3,
+   "celebration_joy": 0.2
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.7,
+   "energy": 0.7,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "joy"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "female"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.7,
+   "imagery": 0.3,
+   "slang": 0.3,
+   "complexity": 0.2,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.8
+ },
+ {
+  "id": "679684ae3a",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A lover promises to stay near whenever the other needs him, through wanting and caring.",
+  "themes": {
+   "love_romance": 0.9,
+   "longing": 0.2
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.4,
+   "energy": 0.4,
+   "primaryEmotion": "hope",
+   "secondaryEmotion": "love"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "future"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.6,
+   "imagery": 0.2,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.2,
+   "aggression": 0.0,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.8
+ },
+ {
+  "id": "b7a3b8647e",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A man in a cab begs the driver to pass his lost love's home one more time.",
+  "themes": {
+   "longing": 0.8,
+   "love_romance": 0.7,
+   "heartbreak": 0.5,
+   "cars_travel": 0.5
+  },
+  "primaryTheme": "longing",
+  "mood": {
+   "valence": -0.4,
+   "energy": 0.3,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "unspecified",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.7,
+   "arc": "fall",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.8,
+   "imagery": 0.3,
+   "slang": 0.1,
+   "complexity": 0.2,
+   "humor": 0.0,
+   "aggression": 0.0,
+   "vulnerability": 0.7
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.8
+ },
+ {
+  "id": "2be0945fcf",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A call to young people to take their own path as the time has come.",
+  "themes": {
+   "freedom_escape": 0.6,
+   "social_politics": 0.5,
+   "loneliness": 0.4
+  },
+  "primaryTheme": "freedom_escape",
+  "mood": {
+   "valence": -0.3,
+   "energy": 0.8,
+   "primaryEmotion": "defiance",
+   "secondaryEmotion": "bitterness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "society",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.4,
+   "imagery": 0.4,
+   "slang": 0.3,
+   "complexity": 0.2,
+   "humor": 0.1,
+   "aggression": 0.4,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.8,
+  "confidence": 0.7
+ },
+ {
+  "id": "83890a7b34",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A lost traveler asks the way to a hometown seeking peace and a fresh start.",
+  "themes": {
+   "hometown_place": 0.8,
+   "nostalgia": 0.5,
+   "loneliness": 0.3,
+   "work_struggle": 0.3
+  },
+  "primaryTheme": "hometown_place",
+  "mood": {
+   "valence": 0.2,
+   "energy": 0.4,
+   "primaryEmotion": "longing",
+   "secondaryEmotion": "nostalgia"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "unspecified",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.4,
+   "arc": "redemption",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.5,
+   "imagery": 0.5,
+   "slang": 0.1,
+   "complexity": 0.4,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.5
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "San Jose",
+    "L.A."
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.85
+ },
+ {
+  "id": "659d4d0b49",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A traveler asks someone to remember a lost love and a list of impossible tasks.",
+  "themes": {
+   "love_romance": 0.5,
+   "war_conflict": 0.5,
+   "longing": 0.5,
+   "nature_seasons": 0.4
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": -0.3,
+   "energy": 0.3,
+   "primaryEmotion": "sadness",
+   "secondaryEmotion": "calm"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "listener",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.4,
+   "arc": "flat",
+   "timeFrame": "past"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.1,
+   "imagery": 0.8,
+   "slang": 0.1,
+   "complexity": 0.7,
+   "humor": 0.0,
+   "aggression": 0.1,
+   "vulnerability": 0.3
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "Scarborough Fair"
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.2,
+  "confidence": 0.85
+ },
+ {
+  "id": "27b97f0d08",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "An anthem declaring pride in being Black and refusing to live on one's knees.",
+  "themes": {
+   "social_politics": 0.9,
+   "empowerment": 0.9,
+   "rebellion": 0.4
+  },
+  "primaryTheme": "social_politics",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.9,
+   "primaryEmotion": "defiance",
+   "secondaryEmotion": "confidence"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "crowd",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "rise",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 1.0,
+   "conversational": 0.9,
+   "imagery": 0.2,
+   "slang": 0.5,
+   "complexity": 0.3,
+   "humor": 0.3,
+   "aggression": 0.5,
+   "vulnerability": 0.2
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.9,
+  "confidence": 0.9
+ },
+ {
+  "id": "b5a02cd557",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A playful song about a mysterious figure who will sort out everyone's chaos.",
+  "themes": {
+   "celebration_joy": 0.5,
+   "social_politics": 0.3
+  },
+  "primaryTheme": "celebration_joy",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.6,
+   "primaryEmotion": "hope",
+   "secondaryEmotion": "joy"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "crowd",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "rise",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.7,
+   "imagery": 0.5,
+   "slang": 0.2,
+   "complexity": 0.2,
+   "humor": 0.6,
+   "aggression": 0.0,
+   "vulnerability": 0.1
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [
+    "Quinn"
+   ],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.7
+ },
+ {
+  "id": "77a5bb4973",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A playful courtroom comedy where a judge sets the rules for dancing and fun.",
+  "themes": {
+   "celebration_joy": 0.6,
+   "partying": 0.3,
+   "rebellion": 0.3
+  },
+  "primaryTheme": "celebration_joy",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.9,
+   "primaryEmotion": "playfulness",
+   "secondaryEmotion": "confidence"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "crowd",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.5,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.8,
+   "imagery": 0.1,
+   "slang": 0.8,
+   "complexity": 0.1,
+   "humor": 0.9,
+   "aggression": 0.1,
+   "vulnerability": 0.0
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [
+    "Brazil"
+   ],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.8,
+  "confidence": 0.8
+ },
+ {
+  "id": "b141b68db7",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A woman's morning and workday are full of silent prayers for her loved one.",
+  "themes": {
+   "love_romance": 0.9,
+   "faith_spirituality": 0.5
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.8,
+   "energy": 0.5,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "hope"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "female"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.8,
+   "imagery": 0.3,
+   "slang": 0.2,
+   "complexity": 0.2,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.7
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.85
+ },
+ {
+  "id": "6fed2261c4",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A forceful demand that the listener think and stop playing games with a partner.",
+  "themes": {
+   "empowerment": 0.8,
+   "love_romance": 0.5,
+   "social_politics": 0.3
+  },
+  "primaryTheme": "empowerment",
+  "mood": {
+   "valence": 0.1,
+   "energy": 0.9,
+   "primaryEmotion": "anger",
+   "secondaryEmotion": "confidence"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "female"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.9,
+   "imagery": 0.2,
+   "slang": 0.5,
+   "complexity": 0.2,
+   "humor": 0.3,
+   "aggression": 0.6,
+   "vulnerability": 0.5
+  },
+  "explicitness": 1,
+  "explicitTopics": [
+   "profanity"
+  ],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.85
+ },
+ {
+  "id": "28a9edd775",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A summer parting promise to send love by letter, sealed with a kiss.",
+  "themes": {
+   "love_romance": 0.8,
+   "longing": 0.5,
+   "nature_seasons": 0.4
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.2,
+   "energy": 0.3,
+   "primaryEmotion": "longing",
+   "secondaryEmotion": "hope"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.2,
+   "arc": "flat",
+   "timeFrame": "future"
+  },
+  "style": {
+   "hookCentric": 0.9,
+   "conversational": 0.7,
+   "imagery": 0.3,
+   "slang": 0.1,
+   "complexity": 0.1,
+   "humor": 0.0,
+   "aggression": 0.0,
+   "vulnerability": 0.6
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.85
+ },
+ {
+  "id": "4780478ac5",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A defiant lover says she will keep giving her heart despite the pain.",
+  "themes": {
+   "heartbreak": 0.8,
+   "love_romance": 0.7,
+   "empowerment": 0.5
+  },
+  "primaryTheme": "heartbreak",
+  "mood": {
+   "valence": -0.4,
+   "energy": 0.9,
+   "primaryEmotion": "defiance",
+   "secondaryEmotion": "anger"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "female"
+  },
+  "narrative": {
+   "storytelling": 0.3,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.95,
+   "conversational": 0.8,
+   "imagery": 0.1,
+   "slang": 0.4,
+   "complexity": 0.1,
+   "humor": 0.0,
+   "aggression": 0.4,
+   "vulnerability": 0.8
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.6,
+  "confidence": 0.85
+ },
+ {
+  "id": "82cad887a2",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A simple love song praising a girl's walk and talk and her faithfulness.",
+  "themes": {
+   "love_romance": 0.7,
+   "celebration_joy": 0.2
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.5,
+   "energy": 0.8,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "playfulness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.0,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 1.0,
+   "conversational": 0.7,
+   "imagery": 0.1,
+   "slang": 0.1,
+   "complexity": 0.1,
+   "humor": 0.2,
+   "aggression": 0.0,
+   "vulnerability": 0.2
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.85
+ },
+ {
+  "id": "0402c1884d",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A lover willingly lets a partner shape her however they like if they love her.",
+  "themes": {
+   "love_romance": 0.9
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": 0.5,
+   "energy": 0.6,
+   "primaryEmotion": "love",
+   "secondaryEmotion": "longing"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "lover",
+   "narratorGender": "unspecified"
+  },
+  "narrative": {
+   "storytelling": 0.1,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 1.0,
+   "conversational": 0.6,
+   "imagery": 0.2,
+   "slang": 0.1,
+   "complexity": 0.1,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.6
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [],
+   "technology": [],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.5,
+  "confidence": 0.85
+ },
+ {
+  "id": "f88dea3e75",
+  "lyricsUsable": true,
+  "lyricsIssue": null,
+  "summary": "A man begs a telegram messenger to deliver a longing message to his girl.",
+  "themes": {
+   "love_romance": 0.8,
+   "longing": 0.7,
+   "heartbreak": 0.3
+  },
+  "primaryTheme": "love_romance",
+  "mood": {
+   "valence": -0.3,
+   "energy": 0.6,
+   "primaryEmotion": "longing",
+   "secondaryEmotion": "sadness"
+  },
+  "perspective": {
+   "narrator": "first",
+   "addressee": "unspecified",
+   "narratorGender": "male"
+  },
+  "narrative": {
+   "storytelling": 0.5,
+   "arc": "flat",
+   "timeFrame": "present"
+  },
+  "style": {
+   "hookCentric": 0.8,
+   "conversational": 0.8,
+   "imagery": 0.2,
+   "slang": 0.2,
+   "complexity": 0.1,
+   "humor": 0.1,
+   "aggression": 0.0,
+   "vulnerability": 0.7
+  },
+  "explicitness": 0,
+  "explicitTopics": [],
+  "languages": [
+   "en"
+  ],
+  "nonEnglishShare": 0,
+  "references": {
+   "places": [],
+   "brands": [
+    "Western Union"
+   ],
+   "technology": [
+    "telegram"
+   ],
+   "people": [],
+   "eras": []
+  },
+  "eraSignal": 0.8,
+  "confidence": 0.8
+ }
+]

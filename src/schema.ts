@@ -16,7 +16,7 @@ export const EMOTIONS = [
 ] as const
 export type Emotion = (typeof EMOTIONS)[number]
 
-/** The 2015 project's 15 aggregate genres (pipeline/genres.py), in its order. */
+/** The 2015 project's 15 aggregate genres (pipeline/genres.json, written by pipeline/artists.py), in its order. */
 export const GENRES = [
     'rock', 'alternative/indie', 'electronic/dance', 'soul', 'classical/soundtrack', 'pop', 'hip-hop/rnb', 'disco',
     'swing', 'folk', 'country', 'jazz', 'religious', 'blues', 'reggae',

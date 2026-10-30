@@ -5,8 +5,7 @@
 import json, re, zlib
 import pronouncing
 import fc
-from lyrics import unique_songs
-from songs import norm
+from songs import norm, unique_songs
 
 ROOT = fc.ROOT
 PROFANITY_URL = 'https://raw.githubusercontent.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/master/en'

@@ -16,11 +16,18 @@ Lyrics live only in the git-ignored `pipeline/cache/` and `pipeline/batches/`.
 Vite + React + TypeScript + Tailwind 4 + bun, UI from `@kevinschaich/components`. `bun install && bun dev`
 (port 5183 in `.claude/launch.json`).
 
-- `pipeline/`: the Python data pipeline (see `pipeline/README.md`, `pipeline/analysis-schema.md`). Its
-  committed outputs (`songs.json`, `analysis.json`, `metrics.json`, `artists.json`, `galaxy.json`,
-  `genres.json`) are the inputs to the app.
+- `pipeline/`: the Python data pipeline (see `pipeline/README.md`, `pipeline/analysis-schema.md`):
+  `songs.py` (charts via Firecrawl, `fc.py`), `artists.py` (MusicBrainz JSON dump → `artists.json`,
+  `genres.json`), `lyrics_dump.py` (LRCLIB dump → `cache/lyrics`, `lyrics-coverage.json`), `metrics.py`,
+  `batches.py`, the Claude analysis pass (`analysis/batch-*.json` → `analysis.json`) and `galaxy.py`. The old
+  Firecrawl lyrics/metadata scripts (`lyrics.py`, `metadata.py`, `genres.py`, `build.py`) are gone; don't
+  bring them back. Shared helpers: `norm` and `unique_songs` live in `songs.py`.
+- **Published data:** the pipeline's JSON outputs, `pipeline/analysis/` and `public/data/` are committed so
+  others can build on them (the README's Data section lists them; keep it in step). Never commit
+  `pipeline/cache/` or `pipeline/batches/` (lyrics, dumps) or `.env`. Before committing data, check no
+  8-word run from `pipeline/cache/lyrics` appears in any tracked file (titles aside).
 - `scripts/build-data.ts`: joins those into `public/data/songs.json` and `years.json`. Runs before every
-  `bun dev` and `bun run build` (also `bun run data`); `public/data` is generated and git-ignored.
+  `bun dev` and `bun run build` (also `bun run data`); commit the regenerated `public/data` with data changes.
 - `src/schema.ts`: the vocabularies (THEMES, EMOTIONS, GENRES, STYLES, …) and the raw file shapes. Data stores
   indices into these lists: only append, never reorder.
 - `src/data.ts`: `useData()` / `loadData()` decode the files into typed `Song`, `Artist` and `Year` objects,

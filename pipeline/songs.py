@@ -10,6 +10,15 @@ ROOT = fc.ROOT
 WIKI = 'https://en.wikipedia.org/wiki/'
 
 
+def unique_songs():
+    """Each song once (a song can chart in several years), first chart year kept."""
+    songs = json.loads((ROOT / 'songs.json').read_text())['songs']
+    seen = {}
+    for s in songs:
+        seen.setdefault(s['id'], s)
+    return list(seen.values())
+
+
 def page_title(year):
     if year <= 1956: return f'Billboard_year-end_top_30_singles_of_{year}'
     if year <= 1958: return f'Billboard_year-end_top_50_singles_of_{year}'

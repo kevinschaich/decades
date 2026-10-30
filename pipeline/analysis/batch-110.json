@@ -1,0 +1,2878 @@
+[
+  {
+    "id": "63950a4678",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A man begs a lover not to leave after a night together, dreading the morning and what tomorrow brings.",
+    "themes": {
+      "love_romance": 0.8,
+      "longing": 0.6,
+      "desire_sex": 0.3,
+      "heartbreak": 0.4
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.1,
+      "energy": 0.6,
+      "primaryEmotion": "longing",
+      "secondaryEmotion": "fear"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.3,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.6,
+      "imagery": 0.3,
+      "slang": 0.2,
+      "complexity": 0.2,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.7
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "290ad8a0d8",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A devoted partner promises steady, reliable love through hard times, using playful metaphors about being there.",
+    "themes": {
+      "love_romance": 0.9,
+      "celebration_joy": 0.2
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.7,
+      "energy": 0.5,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.4,
+      "imagery": 0.5,
+      "slang": 0.4,
+      "complexity": 0.4,
+      "humor": 0.2,
+      "aggression": 0.0,
+      "vulnerability": 0.4
+    },
+    "explicitness": 1,
+    "explicitTopics": [
+      "drugs"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "86babea7ee",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A call to stop chasing money and enjoy music and each other together, rejecting consumerism and the spotlight.",
+    "themes": {
+      "money_wealth": 0.7,
+      "celebration_joy": 0.5,
+      "dancing": 0.4,
+      "fame_status": 0.3
+    },
+    "primaryTheme": "money_wealth",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.9,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "defiance"
+    },
+    "perspective": {
+      "narrator": "mixed",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.6,
+      "imagery": 0.2,
+      "slang": 0.5,
+      "complexity": 0.2,
+      "humor": 0.4,
+      "aggression": 0.1,
+      "vulnerability": 0.1
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Mars"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.4,
+    "confidence": 0.85
+  },
+  {
+    "id": "c5edada718",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A man who admits his flaws thanks a higher power for the partner who stays and steadies him.",
+    "themes": {
+      "love_romance": 0.9,
+      "faith_spirituality": 0.7,
+      "self_reflection": 0.4
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.6,
+      "energy": 0.3,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "redemption",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.5,
+      "imagery": 0.3,
+      "slang": 0.1,
+      "complexity": 0.2,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.8
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.2,
+    "confidence": 0.9
+  },
+  {
+    "id": "26366c422f",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A boastful rapper flaunts money, status and sexual conquest while urging a woman to join in on his terms.",
+    "themes": {
+      "bragging": 0.9,
+      "desire_sex": 0.85,
+      "money_wealth": 0.7,
+      "fame_status": 0.5,
+      "partying": 0.3
+    },
+    "primaryTheme": "bragging",
+    "mood": {
+      "valence": 0.4,
+      "energy": 0.8,
+      "primaryEmotion": "confidence",
+      "secondaryEmotion": "desire"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "male"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.8,
+      "imagery": 0.4,
+      "slang": 0.9,
+      "complexity": 0.5,
+      "humor": 0.6,
+      "aggression": 0.4,
+      "vulnerability": 0.1
+    },
+    "explicitness": 3,
+    "explicitTopics": [
+      "profanity",
+      "sexual"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Hell's Kitchen",
+        "Bellagio"
+      ],
+      "brands": [
+        "Red Bottoms"
+      ],
+      "technology": [],
+      "people": [
+        "Ray Charles"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "8d6d3f72f7",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A romance from a shy first kiss to a proposal and wedding, told with playful repeated lines.",
+    "themes": {
+      "love_romance": 0.95,
+      "celebration_joy": 0.5,
+      "nostalgia": 0.2
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.9,
+      "energy": 0.5,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "joy"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "male"
+    },
+    "narrative": {
+      "storytelling": 0.7,
+      "arc": "rise",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 0.95,
+      "conversational": 0.8,
+      "imagery": 0.3,
+      "slang": 0.1,
+      "complexity": 0.1,
+      "humor": 0.3,
+      "aggression": 0.0,
+      "vulnerability": 0.5
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.2,
+    "confidence": 0.9
+  },
+  {
+    "id": "3d44fbc256",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer warns that drinking and a lover keep pulling him back, with each night nearly ruining him.",
+    "themes": {
+      "drugs_alcohol": 0.9,
+      "heartbreak": 0.6,
+      "love_romance": 0.4,
+      "longing": 0.3,
+      "self_reflection": 0.3
+    },
+    "primaryTheme": "drugs_alcohol",
+    "mood": {
+      "valence": -0.4,
+      "energy": 0.5,
+      "primaryEmotion": "sadness",
+      "secondaryEmotion": "longing"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "cycle",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.5,
+      "imagery": 0.5,
+      "slang": 0.2,
+      "complexity": 0.2,
+      "humor": 0.0,
+      "aggression": 0.1,
+      "vulnerability": 0.7
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Mulholland Drive"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "bb9d9c969e",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A restless traveler leaves a faithful woman behind, calling her from cold places but unable to settle down.",
+    "themes": {
+      "longing": 0.7,
+      "freedom_escape": 0.6,
+      "love_romance": 0.6,
+      "cars_travel": 0.5,
+      "heartbreak": 0.5
+    },
+    "primaryTheme": "longing",
+    "mood": {
+      "valence": -0.1,
+      "energy": 0.4,
+      "primaryEmotion": "longing",
+      "secondaryEmotion": "sadness"
+    },
+    "perspective": {
+      "narrator": "mixed",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.6,
+      "arc": "cycle",
+      "timeFrame": "mixed"
+    },
+    "style": {
+      "hookCentric": 0.7,
+      "conversational": 0.5,
+      "imagery": 0.8,
+      "slang": 0.2,
+      "complexity": 0.3,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.6
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Colorado",
+        "Lincoln"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "49c5bd014d",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A boastful night out spending big, drinking hard and chasing women, treating every moment like it could be the last.",
+    "themes": {
+      "partying": 0.9,
+      "bragging": 0.85,
+      "money_wealth": 0.7,
+      "desire_sex": 0.6,
+      "fame_status": 0.5
+    },
+    "primaryTheme": "partying",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.9,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.6,
+      "imagery": 0.3,
+      "slang": 0.9,
+      "complexity": 0.2,
+      "humor": 0.5,
+      "aggression": 0.2,
+      "vulnerability": 0.0
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity",
+      "sexual"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Westside"
+      ],
+      "brands": [
+        "Certs",
+        "Louis Vuitton",
+        "Chandon",
+        "Sean John"
+      ],
+      "technology": [],
+      "people": [
+        "Beyonce"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "a906dd043c",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A bitter ex is hurt by a cold breakup and being treated like a stranger, still aching over lost love.",
+    "themes": {
+      "heartbreak": 0.9,
+      "loneliness": 0.4,
+      "self_reflection": 0.4,
+      "love_romance": 0.4,
+      "longing": 0.3
+    },
+    "primaryTheme": "heartbreak",
+    "mood": {
+      "valence": -0.6,
+      "energy": 0.4,
+      "primaryEmotion": "sadness",
+      "secondaryEmotion": "bitterness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.5,
+      "arc": "fall",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.1,
+      "complexity": 0.3,
+      "humor": 0.1,
+      "aggression": 0.3,
+      "vulnerability": 0.7
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "112049e9a6",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A flirtatious newcomer hands a stranger her number on the spot, hoping he will call her.",
+    "themes": {
+      "love_romance": 0.9,
+      "desire_sex": 0.2
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.8,
+      "primaryEmotion": "playfulness",
+      "secondaryEmotion": "desire"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crush",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.1,
+      "complexity": 0.1,
+      "humor": 0.3,
+      "aggression": 0.0,
+      "vulnerability": 0.4
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.5,
+    "confidence": 0.9
+  },
+  {
+    "id": "b46ee7d28c",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "Friends and lovers drink at a bar, trying to burn bright and promise to carry each other home.",
+    "themes": {
+      "partying": 0.8,
+      "friendship": 0.5,
+      "love_romance": 0.5,
+      "drugs_alcohol": 0.5,
+      "celebration_joy": 0.4,
+      "self_reflection": 0.3
+    },
+    "primaryTheme": "partying",
+    "mood": {
+      "valence": 0.5,
+      "energy": 0.8,
+      "primaryEmotion": "hope",
+      "secondaryEmotion": "love"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "friend",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "fall",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.6,
+      "imagery": 0.5,
+      "slang": 0.2,
+      "complexity": 0.2,
+      "humor": 0.1,
+      "aggression": 0.0,
+      "vulnerability": 0.5
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Empire State"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.4,
+    "confidence": 0.85
+  },
+  {
+    "id": "925a9f9c69",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A jilted lover reflects on a failed romance from a payphone, while a rapper boasts and mocks the ex.",
+    "themes": {
+      "heartbreak": 0.9,
+      "bragging": 0.6,
+      "money_wealth": 0.6,
+      "love_romance": 0.5,
+      "self_reflection": 0.4,
+      "longing": 0.3
+    },
+    "primaryTheme": "heartbreak",
+    "mood": {
+      "valence": -0.5,
+      "energy": 0.5,
+      "primaryEmotion": "bitterness",
+      "secondaryEmotion": "sadness"
+    },
+    "perspective": {
+      "narrator": "mixed",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.5,
+      "arc": "fall",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 0.8,
+      "conversational": 0.5,
+      "imagery": 0.5,
+      "slang": 0.6,
+      "complexity": 0.2,
+      "humor": 0.0,
+      "aggression": 0.4,
+      "vulnerability": 0.6
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [
+        "Phantom"
+      ],
+      "technology": [
+        "payphone"
+      ],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.7,
+    "confidence": 0.85
+  },
+  {
+    "id": "c5dcddd3be",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "An anxious, isolated person finds comfort in distant lights calling them home, longing for safety and family.",
+    "themes": {
+      "loneliness": 0.8,
+      "longing": 0.7,
+      "nostalgia": 0.4,
+      "family": 0.4,
+      "hometown_place": 0.3,
+      "mental_health": 0.4
+    },
+    "primaryTheme": "loneliness",
+    "mood": {
+      "valence": -0.3,
+      "energy": 0.3,
+      "primaryEmotion": "fear",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "self",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.3,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.95,
+      "conversational": 0.2,
+      "imagery": 0.9,
+      "slang": 0.0,
+      "complexity": 0.4,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.9
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "c208c2b773",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "An upbeat party night of flirting and seduction, with the singer thrilled that a new love showed up and stayed.",
+    "themes": {
+      "partying": 0.7,
+      "love_romance": 0.6,
+      "desire_sex": 0.5,
+      "celebration_joy": 0.4,
+      "dancing": 0.3
+    },
+    "primaryTheme": "partying",
+    "mood": {
+      "valence": 0.9,
+      "energy": 0.8,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "desire"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.5,
+      "imagery": 0.3,
+      "slang": 0.0,
+      "complexity": 0.1,
+      "humor": 0.1,
+      "aggression": 0.0,
+      "vulnerability": 0.2
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "67dffd5a07",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "After a breakup, the singer declares she has grown stronger and moved on, refusing to be broken by her ex.",
+    "themes": {
+      "empowerment": 0.9,
+      "heartbreak": 0.5,
+      "self_reflection": 0.4
+    },
+    "primaryTheme": "empowerment",
+    "mood": {
+      "valence": 0.4,
+      "energy": 0.7,
+      "primaryEmotion": "defiance",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "rise",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.6,
+      "imagery": 0.2,
+      "slang": 0.1,
+      "complexity": 0.1,
+      "humor": 0.0,
+      "aggression": 0.4,
+      "vulnerability": 0.4
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "d1b84dfea8",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A party anthem urging dancers to let loose and fly high, with some bragging about money and drinks.",
+    "themes": {
+      "partying": 0.9,
+      "dancing": 0.8,
+      "celebration_joy": 0.6,
+      "money_wealth": 0.4,
+      "bragging": 0.4,
+      "drugs_alcohol": 0.3
+    },
+    "primaryTheme": "partying",
+    "mood": {
+      "valence": 0.9,
+      "energy": 0.95,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "playfulness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.7,
+      "complexity": 0.2,
+      "humor": 0.5,
+      "aggression": 0.1,
+      "vulnerability": 0.0
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [
+        "Patron",
+        "Bud Light"
+      ],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.5,
+    "confidence": 0.85
+  },
+  {
+    "id": "fd2ac6b154",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A boy tells a shy girl she is beautiful without knowing it and promises to show her what he sees.",
+    "themes": {
+      "love_romance": 0.9,
+      "empowerment": 0.3,
+      "self_reflection": 0.2,
+      "celebration_joy": 0.2
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.7,
+      "energy": 0.7,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.1,
+      "complexity": 0.1,
+      "humor": 0.2,
+      "aggression": 0.0,
+      "vulnerability": 0.5
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Bournemouth"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "f9362e27f5",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "Party-hungry singers boast about wild nights and sex, inviting a wild partner to join the club fun.",
+    "themes": {
+      "partying": 0.8,
+      "desire_sex": 0.7,
+      "bragging": 0.6,
+      "dancing": 0.4,
+      "drugs_alcohol": 0.3
+    },
+    "primaryTheme": "partying",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.9,
+      "primaryEmotion": "desire",
+      "secondaryEmotion": "joy"
+    },
+    "perspective": {
+      "narrator": "mixed",
+      "addressee": "unspecified",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.6,
+      "imagery": 0.4,
+      "slang": 0.6,
+      "complexity": 0.2,
+      "humor": 0.3,
+      "aggression": 0.1,
+      "vulnerability": 0.2
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "sexual"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "55220251ec",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A heartbroken singer recalls a relationship that burned out, leaving her wounded and still haunted by the memory.",
+    "themes": {
+      "heartbreak": 0.9,
+      "longing": 0.6,
+      "love_romance": 0.5,
+      "self_reflection": 0.4
+    },
+    "primaryTheme": "heartbreak",
+    "mood": {
+      "valence": -0.6,
+      "energy": 0.5,
+      "primaryEmotion": "sadness",
+      "secondaryEmotion": "longing"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.6,
+      "arc": "fall",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 0.8,
+      "conversational": 0.4,
+      "imagery": 0.9,
+      "slang": 0.0,
+      "complexity": 0.3,
+      "humor": 0.0,
+      "aggression": 0.2,
+      "vulnerability": 0.9
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "dec5a3b87f",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A restless singer questions identity and purpose, wrestling with loneliness, lost time and family pressure.",
+    "themes": {
+      "self_reflection": 0.9,
+      "loneliness": 0.6,
+      "family": 0.4,
+      "mental_health": 0.3,
+      "work_struggle": 0.3,
+      "rebellion": 0.3
+    },
+    "primaryTheme": "self_reflection",
+    "mood": {
+      "valence": -0.2,
+      "energy": 0.8,
+      "primaryEmotion": "defiance",
+      "secondaryEmotion": "bitterness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "self",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.5,
+      "conversational": 0.9,
+      "imagery": 0.3,
+      "slang": 0.5,
+      "complexity": 0.4,
+      "humor": 0.2,
+      "aggression": 0.4,
+      "vulnerability": 0.8
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "1f295c539c",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "After a painful romance, the singer wakes up clear-eyed, letting go and realizing that things were not what they seemed.",
+    "themes": {
+      "heartbreak": 0.8,
+      "self_reflection": 0.6,
+      "empowerment": 0.6,
+      "freedom_escape": 0.4
+    },
+    "primaryTheme": "heartbreak",
+    "mood": {
+      "valence": 0.1,
+      "energy": 0.6,
+      "primaryEmotion": "hope",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "redemption",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.5,
+      "imagery": 0.8,
+      "slang": 0.1,
+      "complexity": 0.3,
+      "humor": 0.0,
+      "aggression": 0.1,
+      "vulnerability": 0.6
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "2e88728773",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A rapper boasts about his success and confidence, feeling great and urging listeners to enjoy the good life with him.",
+    "themes": {
+      "celebration_joy": 0.8,
+      "bragging": 0.8,
+      "fame_status": 0.6,
+      "money_wealth": 0.5,
+      "partying": 0.3
+    },
+    "primaryTheme": "celebration_joy",
+    "mood": {
+      "valence": 0.9,
+      "energy": 0.8,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "rise",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.6,
+      "imagery": 0.4,
+      "slang": 0.5,
+      "complexity": 0.3,
+      "humor": 0.4,
+      "aggression": 0.1,
+      "vulnerability": 0.1
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Taiwan"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.8
+  },
+  {
+    "id": "7d47d6fa6e",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A playful, sexually suggestive braggart invites a partner to make him feel a thrill, boasting about his own skills.",
+    "themes": {
+      "desire_sex": 0.9,
+      "bragging": 0.6,
+      "dancing": 0.4,
+      "celebration_joy": 0.2
+    },
+    "primaryTheme": "desire_sex",
+    "mood": {
+      "valence": 0.7,
+      "energy": 0.8,
+      "primaryEmotion": "desire",
+      "secondaryEmotion": "playfulness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.6,
+      "imagery": 0.4,
+      "slang": 0.4,
+      "complexity": 0.1,
+      "humor": 0.7,
+      "aggression": 0.1,
+      "vulnerability": 0.1
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "sexual"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [
+        "Bugatti"
+      ],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "37c6f82260",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A couple stuck in a toxic on-and-off romance keeps returning to each other, promising just one more night together.",
+    "themes": {
+      "love_romance": 0.7,
+      "desire_sex": 0.6,
+      "heartbreak": 0.5,
+      "self_reflection": 0.4
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": -0.3,
+      "energy": 0.6,
+      "primaryEmotion": "desire",
+      "secondaryEmotion": "longing"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "cycle",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.7,
+      "imagery": 0.4,
+      "slang": 0.2,
+      "complexity": 0.2,
+      "humor": 0.0,
+      "aggression": 0.3,
+      "vulnerability": 0.6
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "ee7edf9fee",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A shy guy confesses he fell hard for a former lover who moved away, promising to be there for her.",
+    "themes": {
+      "love_romance": 0.9,
+      "longing": 0.5,
+      "cars_travel": 0.4,
+      "self_reflection": 0.2
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.5,
+      "energy": 0.5,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "cycle",
+      "timeFrame": "mixed"
+    },
+    "style": {
+      "hookCentric": 0.8,
+      "conversational": 0.8,
+      "imagery": 0.5,
+      "slang": 0.2,
+      "complexity": 0.4,
+      "humor": 0.6,
+      "aggression": 0.0,
+      "vulnerability": 0.7
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "West L.A.",
+        "New York",
+        "Santa Fe"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "d590b815ca",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A boastful rapper flaunts wealth, women and status in clubs, living by a you-only-live-once motto.",
+    "themes": {
+      "bragging": 0.95,
+      "money_wealth": 0.7,
+      "partying": 0.6,
+      "desire_sex": 0.6,
+      "fame_status": 0.5
+    },
+    "primaryTheme": "bragging",
+    "mood": {
+      "valence": 0.5,
+      "energy": 0.8,
+      "primaryEmotion": "confidence",
+      "secondaryEmotion": "playfulness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.9,
+      "complexity": 0.2,
+      "humor": 0.8,
+      "aggression": 0.4,
+      "vulnerability": 0.1
+    },
+    "explicitness": 3,
+    "explicitTopics": [
+      "profanity",
+      "sexual"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Eastside",
+        "Miami",
+        "Uptown"
+      ],
+      "brands": [
+        "Blancpain",
+        "Ferrari"
+      ],
+      "technology": [],
+      "people": [
+        "Mac Dre",
+        "Marley Marl",
+        "Uncle Luke"
+      ],
+      "eras": [
+        "YOLO"
+      ]
+    },
+    "eraSignal": 0.6,
+    "confidence": 0.85
+  },
+  {
+    "id": "fbe69b6acb",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer searches everywhere for a lover who can truly please her, asking where he has been all her life.",
+    "themes": {
+      "longing": 0.8,
+      "love_romance": 0.8,
+      "desire_sex": 0.4,
+      "loneliness": 0.4
+    },
+    "primaryTheme": "longing",
+    "mood": {
+      "valence": 0.2,
+      "energy": 0.6,
+      "primaryEmotion": "longing",
+      "secondaryEmotion": "desire"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.6,
+      "imagery": 0.3,
+      "slang": 0.2,
+      "complexity": 0.1,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.6
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "ec2043e7f9",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer is hurt by gossip around a new relationship, as the talk drowns out what the couple wants.",
+    "themes": {
+      "love_romance": 0.6,
+      "social_politics": 0.5,
+      "heartbreak": 0.3
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": -0.2,
+      "energy": 0.7,
+      "primaryEmotion": "bitterness",
+      "secondaryEmotion": "desire"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.7,
+      "imagery": 0.4,
+      "slang": 0.4,
+      "complexity": 0.2,
+      "humor": 0.5,
+      "aggression": 0.1,
+      "vulnerability": 0.3
+    },
+    "explicitness": 1,
+    "explicitTopics": [
+      "profanity"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.4,
+    "confidence": 0.85
+  },
+  {
+    "id": "846c0ab9f9",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A man offers to look after a hurt woman, promising care and understanding even though she was let down before.",
+    "themes": {
+      "love_romance": 0.8,
+      "heartbreak": 0.6,
+      "self_reflection": 0.3,
+      "desire_sex": 0.2,
+      "drugs_alcohol": 0.2
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.2,
+      "energy": 0.4,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "longing"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.3,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.8,
+      "imagery": 0.3,
+      "slang": 0.3,
+      "complexity": 0.2,
+      "humor": 0.1,
+      "aggression": 0.0,
+      "vulnerability": 0.8
+    },
+    "explicitness": 1,
+    "explicitTopics": [
+      "drugs"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "b6e1983d72",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A defiant singer shrugs off attacks and criticism, declaring she is unbreakable like titanium.",
+    "themes": {
+      "empowerment": 0.9,
+      "rebellion": 0.4,
+      "war_conflict": 0.3,
+      "self_reflection": 0.3
+    },
+    "primaryTheme": "empowerment",
+    "mood": {
+      "valence": 0.3,
+      "energy": 0.7,
+      "primaryEmotion": "defiance",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "rival",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "rise",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.4,
+      "imagery": 0.9,
+      "slang": 0.0,
+      "complexity": 0.3,
+      "humor": 0.0,
+      "aggression": 0.6,
+      "vulnerability": 0.3
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "ca3e93f346",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer vows to stay with a partner through rough times, choosing patience and love over walking away.",
+    "themes": {
+      "love_romance": 0.9,
+      "faith_spirituality": 0.3,
+      "self_reflection": 0.3
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.7,
+      "energy": 0.4,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.7,
+      "imagery": 0.8,
+      "slang": 0.1,
+      "complexity": 0.3,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.7
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.2,
+    "confidence": 0.9
+  },
+  {
+    "id": "45207a13a2",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer warns a lover that losing her would leave him in endless rain and pleads with her to stay.",
+    "themes": {
+      "love_romance": 0.9,
+      "longing": 0.5,
+      "heartbreak": 0.5,
+      "family": 0.4,
+      "nature_seasons": 0.4,
+      "loneliness": 0.3
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": -0.3,
+      "energy": 0.4,
+      "primaryEmotion": "fear",
+      "secondaryEmotion": "longing"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.3,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.5,
+      "imagery": 0.8,
+      "slang": 0.1,
+      "complexity": 0.2,
+      "humor": 0.2,
+      "aggression": 0.0,
+      "vulnerability": 0.9
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.2,
+    "confidence": 0.9
+  },
+  {
+    "id": "7e81b46c88",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "Rappers boast about luxury cars, money, parties and women in a braggy, crude and playful stream of wordplay.",
+    "themes": {
+      "bragging": 0.9,
+      "money_wealth": 0.8,
+      "desire_sex": 0.7,
+      "fame_status": 0.5,
+      "partying": 0.5,
+      "drugs_alcohol": 0.4
+    },
+    "primaryTheme": "bragging",
+    "mood": {
+      "valence": 0.6,
+      "energy": 0.9,
+      "primaryEmotion": "confidence",
+      "secondaryEmotion": "playfulness"
+    },
+    "perspective": {
+      "narrator": "mixed",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.7,
+      "imagery": 0.5,
+      "slang": 0.9,
+      "complexity": 0.6,
+      "humor": 0.6,
+      "aggression": 0.4,
+      "vulnerability": 0.1
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "sexual",
+      "drugs"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Paris",
+        "California"
+      ],
+      "brands": [
+        "Lamborghini",
+        "Perrier",
+        "Audemars Piguet",
+        "Louis Vuitton",
+        "Polo",
+        "Duncan Hines"
+      ],
+      "technology": [],
+      "people": [
+        "Sarah Palin",
+        "Rick James",
+        "Akon",
+        "Dali",
+        "George Jefferson"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.5,
+    "confidence": 0.8
+  },
+  {
+    "id": "f3b12ae55b",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A young suitor promises to treat a girl right, offering to be her boyfriend and never let her go.",
+    "themes": {
+      "love_romance": 0.95
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.7,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "joy"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.5,
+      "complexity": 0.1,
+      "humor": 0.4,
+      "aggression": 0.0,
+      "vulnerability": 0.5
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "669558814d",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer ends a close relationship to stay true to himself, feeling too close to love her.",
+    "themes": {
+      "self_reflection": 0.7,
+      "love_romance": 0.6,
+      "heartbreak": 0.6,
+      "freedom_escape": 0.5,
+      "friendship": 0.2
+    },
+    "primaryTheme": "self_reflection",
+    "mood": {
+      "valence": -0.2,
+      "energy": 0.4,
+      "primaryEmotion": "sadness",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.7,
+      "imagery": 0.2,
+      "slang": 0.0,
+      "complexity": 0.2,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.8
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.2,
+    "confidence": 0.85
+  },
+  {
+    "id": "d34bf7fb0a",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer leaves a bad relationship and insists the ex cannot take away her strength, shining brighter on her own.",
+    "themes": {
+      "empowerment": 0.95,
+      "heartbreak": 0.5,
+      "self_reflection": 0.4,
+      "rebellion": 0.3
+    },
+    "primaryTheme": "empowerment",
+    "mood": {
+      "valence": 0.6,
+      "energy": 0.7,
+      "primaryEmotion": "defiance",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "redemption",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.6,
+      "imagery": 0.6,
+      "slang": 0.1,
+      "complexity": 0.1,
+      "humor": 0.0,
+      "aggression": 0.4,
+      "vulnerability": 0.3
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "eb2861da8f",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "Friends celebrate carefree youth, smoking weed and drinking with no worries, living young, wild and free.",
+    "themes": {
+      "drugs_alcohol": 0.95,
+      "partying": 0.8,
+      "freedom_escape": 0.6,
+      "celebration_joy": 0.5,
+      "youth_school": 0.4,
+      "bragging": 0.3
+    },
+    "primaryTheme": "drugs_alcohol",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.7,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "mixed",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.8,
+      "imagery": 0.2,
+      "slang": 0.9,
+      "complexity": 0.2,
+      "humor": 0.6,
+      "aggression": 0.0,
+      "vulnerability": 0.1
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity",
+      "drugs"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [
+        "Chevy",
+        "Levi's 501"
+      ],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.4,
+    "confidence": 0.85
+  },
+  {
+    "id": "e583b706f7",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer refuses to reunite with an on-and-off ex, mocking his repeated comebacks and insisting it is over for good.",
+    "themes": {
+      "heartbreak": 0.9,
+      "empowerment": 0.6,
+      "rebellion": 0.5,
+      "love_romance": 0.5,
+      "self_reflection": 0.2
+    },
+    "primaryTheme": "heartbreak",
+    "mood": {
+      "valence": -0.2,
+      "energy": 0.8,
+      "primaryEmotion": "defiance",
+      "secondaryEmotion": "bitterness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.4,
+      "arc": "cycle",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.9,
+      "imagery": 0.2,
+      "slang": 0.4,
+      "complexity": 0.1,
+      "humor": 0.5,
+      "aggression": 0.4,
+      "vulnerability": 0.3
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.5,
+    "confidence": 0.9
+  },
+  {
+    "id": "1cb1cc48cc",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A couple vows to stay devoted through hardship, saying their love keeps them rich and strong no matter what.",
+    "themes": {
+      "love_romance": 0.95,
+      "money_wealth": 0.3,
+      "fame_status": 0.3,
+      "empowerment": 0.2
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.7,
+      "energy": 0.7,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "hope"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.6,
+      "imagery": 0.5,
+      "slang": 0.3,
+      "complexity": 0.3,
+      "humor": 0.1,
+      "aggression": 0.0,
+      "vulnerability": 0.6
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [
+        "Hova"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.5,
+    "confidence": 0.85
+  },
+  {
+    "id": "539c50b0c5",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A dance track in which a singer begs a lover cast as a doctor to save and turn her on.",
+    "themes": {
+      "desire_sex": 0.9,
+      "dancing": 0.5,
+      "celebration_joy": 0.3,
+      "love_romance": 0.4
+    },
+    "primaryTheme": "desire_sex",
+    "mood": {
+      "valence": 0.6,
+      "energy": 0.8,
+      "primaryEmotion": "desire",
+      "secondaryEmotion": "playfulness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.5,
+      "imagery": 0.5,
+      "slang": 0.2,
+      "complexity": 0.1,
+      "humor": 0.5,
+      "aggression": 0.0,
+      "vulnerability": 0.3
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.4,
+    "confidence": 0.85
+  },
+  {
+    "id": "889ea43f11",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "An exhausted singer ends a draining relationship, taking one last goodbye kiss and planning to live freely on her own.",
+    "themes": {
+      "heartbreak": 0.8,
+      "rebellion": 0.5,
+      "freedom_escape": 0.5,
+      "self_reflection": 0.4,
+      "drugs_alcohol": 0.3,
+      "mental_health": 0.3
+    },
+    "primaryTheme": "heartbreak",
+    "mood": {
+      "valence": -0.2,
+      "energy": 0.7,
+      "primaryEmotion": "bitterness",
+      "secondaryEmotion": "defiance"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.3,
+      "arc": "fall",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.8,
+      "imagery": 0.3,
+      "slang": 0.5,
+      "complexity": 0.1,
+      "humor": 0.3,
+      "aggression": 0.7,
+      "vulnerability": 0.4
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "3bf22ed62c",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A carefree duo sings that it is always a good time, inviting friends to go out and have fun.",
+    "themes": {
+      "celebration_joy": 0.9,
+      "partying": 0.7,
+      "freedom_escape": 0.4,
+      "dancing": 0.3,
+      "friendship": 0.2
+    },
+    "primaryTheme": "celebration_joy",
+    "mood": {
+      "valence": 0.95,
+      "energy": 0.6,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "playfulness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.6,
+      "imagery": 0.3,
+      "slang": 0.2,
+      "complexity": 0.1,
+      "humor": 0.4,
+      "aggression": 0.0,
+      "vulnerability": 0.1
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [
+        "Prince"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.4,
+    "confidence": 0.9
+  },
+  {
+    "id": "1973430f2a",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer reassures a guarded partner she is not like their ex, wanting to ease their fear of getting hurt.",
+    "themes": {
+      "love_romance": 0.9,
+      "heartbreak": 0.5
+    },
+    "primaryTheme": "love_romance",
+    "mood": {
+      "valence": 0.5,
+      "energy": 0.5,
+      "primaryEmotion": "hope",
+      "secondaryEmotion": "love"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.3,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.1,
+      "complexity": 0.1,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.6
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.9
+  },
+  {
+    "id": "e452a7a31d",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "Two rappers boast about spending big in Paris, living large, partying and playing basketball with swagger and bravado.",
+    "themes": {
+      "bragging": 0.95,
+      "money_wealth": 0.9,
+      "partying": 0.8,
+      "fame_status": 0.5,
+      "desire_sex": 0.3,
+      "drugs_alcohol": 0.2
+    },
+    "primaryTheme": "bragging",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.9,
+      "primaryEmotion": "confidence",
+      "secondaryEmotion": "joy"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.2,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.9,
+      "complexity": 0.4,
+      "humor": 0.6,
+      "aggression": 0.4,
+      "vulnerability": 0.0
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Paris",
+        "Chicago",
+        "Brooklyn"
+      ],
+      "brands": [
+        "Gucci",
+        "Louis Vuitton",
+        "Margiela",
+        "Rolex",
+        "Audemars Piguet"
+      ],
+      "technology": [],
+      "people": [
+        "Michael Jackson",
+        "Mike Tyson",
+        "Michael Jordan",
+        "Derrick Rose",
+        "Prince William",
+        "Kate"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "a3b1154951",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer mourns a lost high school love, wishing that in another life she could have kept him.",
+    "themes": {
+      "heartbreak": 0.9,
+      "nostalgia": 0.8,
+      "longing": 0.7,
+      "love_romance": 0.5,
+      "youth_school": 0.4
+    },
+    "primaryTheme": "heartbreak",
+    "mood": {
+      "valence": -0.4,
+      "energy": 0.4,
+      "primaryEmotion": "nostalgia",
+      "secondaryEmotion": "sadness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "ex",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.5,
+      "arc": "fall",
+      "timeFrame": "past"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.6,
+      "imagery": 0.5,
+      "slang": 0.1,
+      "complexity": 0.3,
+      "humor": 0.1,
+      "aggression": 0.0,
+      "vulnerability": 0.8
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [
+        "Mustang"
+      ],
+      "technology": [],
+      "people": [
+        "Johnny Cash",
+        "Radiohead"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.6,
+    "confidence": 0.85
+  },
+  {
+    "id": "baa87615df",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "An electronic dance track repeating the feeling of being close to a lover right now, with nothing to stop them.",
+    "themes": {
+      "dancing": 0.7,
+      "love_romance": 0.6,
+      "celebration_joy": 0.4,
+      "desire_sex": 0.2
+    },
+    "primaryTheme": "dancing",
+    "mood": {
+      "valence": 0.7,
+      "energy": 0.8,
+      "primaryEmotion": "love",
+      "secondaryEmotion": "joy"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.0,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.4,
+      "imagery": 0.3,
+      "slang": 0.0,
+      "complexity": 0.0,
+      "humor": 0.2,
+      "aggression": 0.0,
+      "vulnerability": 0.3
+    },
+    "explicitness": 0,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.8
+  },
+  {
+    "id": "7519810558",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A seductive singer promises a passionate night to a woman he watches across the room, pledging she will scream.",
+    "themes": {
+      "desire_sex": 0.95,
+      "partying": 0.3,
+      "dancing": 0.2,
+      "bragging": 0.2
+    },
+    "primaryTheme": "desire_sex",
+    "mood": {
+      "valence": 0.6,
+      "energy": 0.8,
+      "primaryEmotion": "desire",
+      "secondaryEmotion": "confidence"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.7,
+      "imagery": 0.3,
+      "slang": 0.2,
+      "complexity": 0.1,
+      "humor": 0.2,
+      "aggression": 0.1,
+      "vulnerability": 0.1
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "sexual"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  },
+  {
+    "id": "2f97ca8560",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A rapper boasts about money, luxury cars, strippers and women, celebrating a flashy lifestyle with crude bravado.",
+    "themes": {
+      "bragging": 0.95,
+      "money_wealth": 0.9,
+      "desire_sex": 0.8,
+      "partying": 0.5,
+      "fame_status": 0.4,
+      "drugs_alcohol": 0.3
+    },
+    "primaryTheme": "bragging",
+    "mood": {
+      "valence": 0.5,
+      "energy": 0.9,
+      "primaryEmotion": "confidence",
+      "secondaryEmotion": "playfulness"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "crowd",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 0.9,
+      "conversational": 0.6,
+      "imagery": 0.3,
+      "slang": 1.0,
+      "complexity": 0.2,
+      "humor": 0.4,
+      "aggression": 0.5,
+      "vulnerability": 0.0
+    },
+    "explicitness": 2,
+    "explicitTopics": [
+      "profanity",
+      "sexual",
+      "drugs"
+    ],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Atlanta",
+        "California"
+      ],
+      "brands": [
+        "Lamborghini",
+        "Tom Ford",
+        "Jaeger-LeCoultre",
+        "Rolls-Royce"
+      ],
+      "technology": [],
+      "people": [
+        "Meek Mill",
+        "James Bond"
+      ],
+      "eras": []
+    },
+    "eraSignal": 0.4,
+    "confidence": 0.85
+  },
+  {
+    "id": "9000df35af",
+    "lyricsUsable": true,
+    "lyricsIssue": null,
+    "summary": "A singer describes a passionate dance-floor romance, feeling swept up and taken down by her partner like a domino.",
+    "themes": {
+      "dancing": 0.8,
+      "desire_sex": 0.6,
+      "love_romance": 0.6,
+      "celebration_joy": 0.5
+    },
+    "primaryTheme": "dancing",
+    "mood": {
+      "valence": 0.8,
+      "energy": 0.8,
+      "primaryEmotion": "joy",
+      "secondaryEmotion": "desire"
+    },
+    "perspective": {
+      "narrator": "first",
+      "addressee": "lover",
+      "narratorGender": "unspecified"
+    },
+    "narrative": {
+      "storytelling": 0.1,
+      "arc": "flat",
+      "timeFrame": "present"
+    },
+    "style": {
+      "hookCentric": 1.0,
+      "conversational": 0.5,
+      "imagery": 0.8,
+      "slang": 0.1,
+      "complexity": 0.2,
+      "humor": 0.0,
+      "aggression": 0.0,
+      "vulnerability": 0.4
+    },
+    "explicitness": 1,
+    "explicitTopics": [],
+    "languages": [
+      "en"
+    ],
+    "nonEnglishShare": 0.0,
+    "references": {
+      "places": [
+        "Hollywood"
+      ],
+      "brands": [],
+      "technology": [],
+      "people": [],
+      "eras": []
+    },
+    "eraSignal": 0.3,
+    "confidence": 0.85
+  }
+]

@@ -4,7 +4,7 @@
 """
 import json
 from pathlib import Path
-from lyrics import unique_songs
+from songs import unique_songs
 
 ROOT = Path(__file__).parent
 SIZE = 50
